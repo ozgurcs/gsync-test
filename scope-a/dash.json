@@ -1,0 +1,1 @@
+{"apiVersion":"dashboard.grafana.app/v1beta1","kind":"Dashboard","metadata":{"name":"inscope"},"spec":{"title":"In scope"}}
